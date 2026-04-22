@@ -2,6 +2,7 @@
 title: "Os Avatares mais amigáveis para quem está começando"
 description: "Sorcery tem mais de 20 Avatares diferentes, e a escolha do Avatar define muito do seu deck (é equivalente ao \"Commander\" de Magic). Para quem tá começan..."
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/Geomancer-Press Kit.png"
 category: "primeiros-passos"
 type: "pilar"
 tags: ["iniciante", "guia", "avatar", "precon", "magic-comparison", "combo"]

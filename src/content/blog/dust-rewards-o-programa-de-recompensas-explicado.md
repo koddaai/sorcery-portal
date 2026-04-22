@@ -2,6 +2,7 @@
 title: "Dust Rewards — o programa de recompensas explicado"
 description: "O Dust Rewards é o programa oficial de fidelidade da Curiosa. Essencial pra quem abre boxes mas muita gente joga os códigos fora sem saber o que são."
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/MaskOfMayhemFullArt.jpg"
 category: "primeiros-passos"
 type: "pilar"
 tags: ["iniciante", "guia", "avatar"]

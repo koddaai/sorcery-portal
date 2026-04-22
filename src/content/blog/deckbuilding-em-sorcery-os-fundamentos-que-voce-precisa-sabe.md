@@ -2,6 +2,7 @@
 title: "Deckbuilding em Sorcery — os fundamentos que você precisa saber"
 description: "Muita gente chega achando que é igual Magic. Não é. Os pontos essenciais:"
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/Witch.png"
 category: "primeiros-passos"
 type: "pilar"
 tags: ["iniciante", "guia", "fire", "air", "precon", "magic-comparison"]

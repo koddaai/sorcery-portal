@@ -2,6 +2,7 @@
 title: "A primeira regra de Sorcery é: seja legal"
 description: "Sorcery é declaradamente menos competitivo que MTG. A comunidade tem duas regras de ouro:"
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/DonnybrookInn.jpg"
 category: "geral"
 type: "cultura"
 tags: ["discussao", "magic-comparison"]

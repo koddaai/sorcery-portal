@@ -2,6 +2,7 @@
 title: "Os nomes dos pares de elementos — convenção da comunidade"
 description: "A comunidade internacional consolidou esses nomes para combinações de 2 elementos. Valem como padrão informal:"
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/RiverOfFlame.jpg"
 category: "geral"
 type: "tecnico"
 tags: ["discussao", "fire", "water", "earth", "air"]

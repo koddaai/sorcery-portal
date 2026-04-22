@@ -2,6 +2,7 @@
 title: "Druid — o Avatar dominante do meta"
 description: "Se existe um Avatar \"tier 1\" consolidado em Sorcery, é o Druid. Aparece em quase todo Top 8 de Crossroads."
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/CoyNixie.png"
 category: "decks-construcao"
 type: "pilar"
 tags: ["deck", "construcao", "fire", "water", "earth", "air"]

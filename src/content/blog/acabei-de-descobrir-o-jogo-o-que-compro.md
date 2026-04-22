@@ -2,6 +2,7 @@
 title: "Acabei de descobrir o jogo. O que compro?"
 description: "A pergunta mais frequente do subreddit. Resposta baseada no consenso da comunidade:"
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/RusticVillage.png"
 category: "geral"
 type: "tecnico"
 tags: ["discussao", "avatar", "precon", "magic-comparison"]

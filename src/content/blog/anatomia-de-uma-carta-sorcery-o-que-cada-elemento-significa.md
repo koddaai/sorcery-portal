@@ -2,6 +2,7 @@
 title: "Anatomia de uma carta Sorcery — o que cada elemento significa"
 description: "Guia visual dos elementos em uma carta típica do jogo:"
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/SirPelleas.png"
 category: "ferramentas"
 type: "tecnico"
 tags: ["ferramentas", "recursos", "water", "air", "avatar", "magic-comparison"]

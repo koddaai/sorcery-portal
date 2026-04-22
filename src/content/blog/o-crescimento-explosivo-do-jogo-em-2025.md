@@ -2,6 +2,7 @@
 title: "O crescimento explosivo do jogo em 2025"
 description: "Um dado que contextualiza bem o momento:"
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/SirPerceval.png"
 category: "eventos"
 type: "cultura"
 tags: ["eventos", "comunidade", "air", "magic-comparison"]

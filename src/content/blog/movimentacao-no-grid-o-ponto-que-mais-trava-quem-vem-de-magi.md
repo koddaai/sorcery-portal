@@ -2,6 +2,7 @@
 title: "Movimentação no grid — o ponto que mais trava quem vem de Magic"
 description: "O grid 4x5 (20 casas) é a maior diferença estrutural de Sorcery. Quem vem de Magic leva 2-3 partidas pra absorber essas regras:"
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/Battlefield.jpg"
 category: "primeiros-passos"
 type: "pilar"
 tags: ["iniciante", "guia", "water", "air", "avatar", "magic-comparison"]

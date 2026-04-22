@@ -2,6 +2,7 @@
 title: "Os quatro elementos do Realm — uma introdução"
 description: "Sorcery não tem um universo único com personagens recorrentes como Magic tem; em vez disso, cada set mergulha em uma tradição mítica/cultural diferente,..."
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/Invasion.png"
 category: "lore-arte"
 type: "cultura"
 tags: ["lore", "arte", "fire", "water", "earth", "air"]

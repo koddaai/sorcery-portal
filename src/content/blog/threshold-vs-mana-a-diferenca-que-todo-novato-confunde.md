@@ -2,6 +2,7 @@
 title: "Threshold vs. Mana — a diferença que todo novato confunde"
 description: "Se você veio de Magic, ignore seu instinto. Em Sorcery:"
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/MaelstromFullArt (1).jpg"
 category: "regras-mecanicas"
 type: "tecnico"
 tags: ["regras", "mecanica", "fire", "water", "earth", "air"]

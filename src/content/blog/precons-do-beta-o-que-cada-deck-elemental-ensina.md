@@ -2,6 +2,7 @@
 title: "Precons do Beta — o que cada deck elemental ensina"
 description: "Os 4 precons clássicos do Beta (Air, Water, Earth, Fire) são a forma canônica de começar no jogo. Cada um é construído pra ensinar uma mecânica central ..."
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/Flamecaller-Press Kit.png"
 category: "meta-competitivo"
 type: "tecnico"
 tags: ["meta", "competitivo", "fire", "water", "earth", "air"]

@@ -2,6 +2,7 @@
 title: "Vim do Magic, o que muda? O guia completo"
 description: "Se você vem de MTG, Sorcery vai parecer familiar em muita coisa e completamente diferente em outras. Vamos ao que importa:"
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/WizardsDen.png"
 category: "primeiros-passos"
 type: "pilar"
 tags: ["iniciante", "guia", "fire", "water", "earth", "air"]

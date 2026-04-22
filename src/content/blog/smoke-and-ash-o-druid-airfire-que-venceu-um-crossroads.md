@@ -2,6 +2,7 @@
 title: "Smoke and Ash — o Druid Air/Fire que venceu um Crossroads"
 description: "Uma lista de referência para quem quer entrar em decks competitivos de midrange. Criado por DuoMaxwell22333, venceu um Crossroads de Houston."
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/Sparkmage-Press Kit.png"
 category: "decks-construcao"
 type: "tecnico"
 tags: ["deck", "construcao", "fire", "water", "air"]

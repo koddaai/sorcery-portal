@@ -2,6 +2,7 @@
 title: "8 dúvidas que todo jogador novo tem no primeiro fim de semana"
 description: "Selecionei as perguntas mais recorrentes de quem abriu os precons pela primeira vez:"
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/DonnybrookInn.jpg"
 category: "primeiros-passos"
 type: "pilar"
 tags: ["iniciante", "guia", "avatar", "precon", "magic-comparison"]

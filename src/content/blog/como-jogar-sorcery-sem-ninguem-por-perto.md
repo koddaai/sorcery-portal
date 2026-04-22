@@ -2,6 +2,7 @@
 title: "Como jogar Sorcery sem ninguém por perto"
 description: "Provavelmente o obstáculo #1 para entrar no jogo é encontrar gente pra jogar. Opções conhecidas:"
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/RemoteDesert.jpg"
 category: "geral"
 type: "tecnico"
 tags: ["discussao", "precon"]

@@ -2,6 +2,7 @@
 title: "As ferramentas que todo jogador de Sorcery usa"
 description: "Lista de recursos essenciais da comunidade global:"
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/LoneTower.jpg"
 category: "ferramentas"
 type: "tecnico"
 tags: ["ferramentas", "recursos", "magic-comparison"]

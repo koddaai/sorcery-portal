@@ -2,6 +2,7 @@
 title: "Todas as keywords do jogo em uma página"
 description: "Referência rápida das habilidades-palavra do jogo. Útil pra printar ou deixar ao lado do mat:"
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/Camelot.png"
 category: "primeiros-passos"
 type: "pilar"
 tags: ["iniciante", "guia", "water", "earth", "air", "magic-comparison"]

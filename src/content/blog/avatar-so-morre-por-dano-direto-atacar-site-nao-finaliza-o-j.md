@@ -2,6 +2,7 @@
 title: "Avatar só morre por DANO DIRETO — atacar site não finaliza o jogo"
 description: "Esta é a regra mais mal compreendida do jogo, e o rulebook não enfatiza bem:"
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/ScreamingSkull.jpg"
 category: "regras-mecanicas"
 type: "tecnico"
 tags: ["regras", "mecanica", "avatar", "combo"]
