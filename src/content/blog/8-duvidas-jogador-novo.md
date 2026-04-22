@@ -2,6 +2,7 @@
 title: "8 dúvidas que todo jogador novo tem no primeiro fim de semana"
 description: "As perguntas mais comuns de quem acabou de abrir os precons de Sorcery pela primeira vez, respondidas de forma clara e direta."
 pubDate: 2026-04-22
+heroImage: "../../assets/posts/DonnybrookInn.jpg"
 category: "primeiros-passos"
 type: "tecnico"
 tags: ["iniciante", "regras", "faq", "precon"]

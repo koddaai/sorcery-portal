@@ -1,0 +1,11 @@
+# Sorcery Brasil - robots.txt
+# https://sorcery.com.br
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://sorcery.com.br/sitemap-index.xml
+
+# Crawl-delay for politeness
+Crawl-delay: 1
