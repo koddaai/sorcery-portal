@@ -7,14 +7,15 @@ import FormattedDate from './FormattedDate.astro';
 interface Props {
   post: CollectionEntry<'blog'>;
   featured?: boolean;
+  basePath?: string;
 }
 
-const { post, featured = false } = Astro.props;
+const { post, featured = false, basePath = '/blog' } = Astro.props;
 const category = CATEGORIES[post.data.category as keyof typeof CATEGORIES];
 ---
 
 <article class:list={['post-card', { featured }]}>
-  <a href={`/blog/${post.id}/`}>
+  <a href={`${basePath}/${post.id}/`}>
     {post.data.heroImage ? (
       <Image
         class="post-image"

@@ -1,0 +1,95 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import PostCard from '../../components/PostCard.astro';
+import { CATEGORIES, SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
+
+const posts = (await getCollection('blog'))
+  .filter(post => !post.data.draft)
+  .sort((a, b) => {
+    const orderA = a.data.sortOrder ?? 999;
+    const orderB = b.data.sortOrder ?? 999;
+    if (orderA !== orderB) return orderA - orderB;
+    return b.data.pubDate.valueOf() - a.data.pubDate.valueOf();
+  });
+
+const featuredPost = posts[0];
+const recentPosts = posts.slice(1);
+---
+
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <BaseHead title={`Artigos | ${SITE_TITLE}`} description="Artigos, guias e tutoriais sobre Sorcery: Contested Realm" />
+  </head>
+  <body>
+    <Header />
+    <main>
+      <section class="blog-hero">
+        <div class="container">
+          <h1>Artigos</h1>
+          <p class="blog-hero-description">Guias, tutoriais e análises sobre Sorcery: Contested Realm</p>
+        </div>
+      </section>
+
+      {featuredPost && (
+        <section class="featured-post">
+          <div class="container">
+            <PostCard post={featuredPost} featured={true} basePath="/artigos" />
+          </div>
+        </section>
+      )}
+
+      <section class="blog-grid">
+        <div class="container">
+          <div class="posts-grid">
+            {recentPosts.map((post) => (
+              <PostCard post={post} basePath="/artigos" />
+            ))}
+          </div>
+        </div>
+      </section>
+    </main>
+    <Footer />
+  </body>
+</html>
+
+<style>
+  .blog-hero {
+    padding: 4rem 0 2rem;
+    text-align: center;
+  }
+
+  .blog-hero h1 {
+    font-family: 'Cinzel', serif;
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .blog-hero-description {
+    color: var(--text-secondary);
+    font-size: 1.125rem;
+  }
+
+  .featured-post {
+    padding: 2rem 0;
+  }
+
+  .blog-grid {
+    padding: 2rem 0 4rem;
+  }
+
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+</style>
