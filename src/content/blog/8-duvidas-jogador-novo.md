@@ -7,6 +7,7 @@ category: "primeiros-passos"
 type: "tecnico"
 tags: ["iniciante", "regras", "faq", "precon"]
 author: "Equipe Sorcery Brasil"
+sortOrder: 3
 references:
   - "https://reddit.com/r/SorceryTCG/comments/1ppyw4x"
   - "https://reddit.com/r/SorceryTCG/comments/1srn2ag"

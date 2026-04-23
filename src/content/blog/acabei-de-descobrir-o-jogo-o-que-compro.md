@@ -7,6 +7,7 @@ category: "geral"
 type: "tecnico"
 tags: ["discussao", "avatar", "precon", "magic-comparison"]
 author: "Equipe Sorcery Brasil"
+sortOrder: 2
 references:
   - "https://reddit.com/r/SorceryTCG/comments/1qsxs2h"
   - "https://reddit.com/r/SorceryTCG/comments/1plyusq"

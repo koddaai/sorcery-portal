@@ -35,6 +35,7 @@ const blog = defineCollection({
       author: z.string().default('Equipe Sorcery Brasil'),
       references: z.array(z.string()).optional(), // Reddit/source links
       draft: z.boolean().default(false),
+      sortOrder: z.number().optional(), // Lower number = higher in list (1 = first)
     }),
 });
 

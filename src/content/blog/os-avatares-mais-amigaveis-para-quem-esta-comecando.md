@@ -7,6 +7,7 @@ category: "primeiros-passos"
 type: "pilar"
 tags: ["iniciante", "guia", "avatar", "precon", "magic-comparison", "combo"]
 author: "Equipe Sorcery Brasil"
+sortOrder: 4
 references:
   - "https://reddit.com/r/SorceryTCG/comments/1plyusq"
 ---

@@ -7,6 +7,7 @@ category: "primeiros-passos"
 type: "pilar"
 tags: ["iniciante", "guia", "fire", "water", "earth", "air"]
 author: "Equipe Sorcery Brasil"
+sortOrder: 1
 references:
   - "https://reddit.com/r/SorceryTCG/comments/1katqkq"
 ---

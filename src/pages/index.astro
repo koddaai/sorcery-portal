@@ -8,7 +8,13 @@ import { SITE_DESCRIPTION, SITE_TITLE, SOCIAL_LINKS } from '../consts';
 
 const posts = (await getCollection('blog'))
   .filter((post) => !post.data.draft)
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .sort((a, b) => {
+    // Sort by sortOrder first (lower = higher), then by pubDate
+    const orderA = a.data.sortOrder ?? 999;
+    const orderB = b.data.sortOrder ?? 999;
+    if (orderA !== orderB) return orderA - orderB;
+    return b.data.pubDate.valueOf() - a.data.pubDate.valueOf();
+  })
   .slice(0, 6);
 ---
 
